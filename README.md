@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eduardo</h1>
-<h3 align="center">Master’s Student in Production Engineering</h3>
+<h3 align="center">Ph.D. Student in Production Engineering</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avlisedu&label=Profile%20views&color=0e75b6&style=flat" alt="avlisedu" /> </p>
 
