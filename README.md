@@ -51,10 +51,36 @@ I build decision support systems that combine <strong>epidemiological surveillan
 
 ## 🛠️ Technical Stack
 
+**Programming and analysis**
+
 <p>
-  <img src="https://skillicons.dev/icons?i=python,pandas,sklearn,pytorch,sql,cpp" />
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,git" />
-  <img src="https://skillicons.dev/icons?i=react,tailwind,ts,js" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
+</p>
+
+**Data science and statistics**
+
+<p>
+  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/statsmodels-4B8BBE?style=flat-square" alt="statsmodels"/>
+  <img src="https://img.shields.io/badge/LaTeX%2FTikZ-008080?style=flat-square&logo=latex&logoColor=white" alt="LaTeX/TikZ"/>
+</p>
+
+**Databases and web**
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
 </p>
 
 ---
@@ -63,7 +89,6 @@ I build decision support systems that combine <strong>epidemiological surveillan
 
 - 🔬 PhD research in Production Engineering at UFPE (PPGEP), advised by Prof. Maisa Mendonça Silva, GPSID research group
 - 🌍 Sandwich PhD (CAPES/PDSE) at the University of Exeter, with Prof. Theo
-- 🏦 Data Scientist at Banco Bradesco, building LLM-assisted news alerting and dashboard monitoring
 - 🌱 Growing front-end skills (React and Tailwind) to ship data products
 
 ---
@@ -72,8 +97,8 @@ I build decision support systems that combine <strong>epidemiological surveillan
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=avlisedu&show_icons=true&theme=tokyonight&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api?username=avlisedu&show_icons=true&hide_border=true" alt="GitHub stats" height="170"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://SEU-PROJETO.vercel.app/api?username=avlisedu&show_icons=true&theme=tokyonight&hide_border=true" />
+    <img src="https://SEU-PROJETO.vercel.app/api?username=avlisedu&show_icons=true&hide_border=true" alt="GitHub stats" height="170"/>
   </picture>
 </p>
 
