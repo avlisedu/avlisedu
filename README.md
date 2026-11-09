@@ -93,17 +93,6 @@ I build decision support systems that combine <strong>epidemiological surveillan
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://SEU-PROJETO.vercel.app/api?username=avlisedu&show_icons=true&theme=tokyonight&hide_border=true" />
-    <img src="https://SEU-PROJETO.vercel.app/api?username=avlisedu&show_icons=true&hide_border=true" alt="GitHub stats" height="170"/>
-  </picture>
-</p>
-
----
-
 ## 🤝 Let's connect
 
 Open to conversations about applied data science, decision support systems, and research collaborations in public health and operations.
